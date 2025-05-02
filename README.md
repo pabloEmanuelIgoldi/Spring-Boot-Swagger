@@ -68,22 +68,22 @@ Aclaracion importante: puede funcionar sin ningun tipo de configuracion.
   
   Listado de anotaciones de Swagger que se usaron en este proyecto:
   
-  @Tag: definicion del controller.
+  @Tag: definición del controller.
   
-  @Operation: definicion del endpoint.
+  @Operation: definición del endpoint.
   
   @Parameter: describe un parámetro.
   
   @Parameters: agrupa @Parameter.
   
-  @ApiResponse: definicion de posibles respuestas HTTP en cada endpoint
+  @ApiResponse: definición de posibles respuestas HTTP en cada endpoint
   
   @ApiResponses: agrupa @ApiResponse.
   
   @Schema: describe una clase o atributo.
   
   ### Importante:
-  - Hay mas opciones de anotaciones, buscar en la documentación oficial.
+  - Hay mas opciones de anotaciones.
     
   - @RequestBody (ojo con confundir con la anotacion de Spring)
   
