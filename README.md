@@ -14,6 +14,8 @@
 
 Demostración de una aplicación que implementa la libreria Spring Doc OpenAPI: Swagger.
 
+Solo se compone de un Controlador con 5 endpoints, que manejan datos en memoria.
+
 #  **Prueba**
 
 Se puede probar esta aplicación:
@@ -24,7 +26,8 @@ http://localhost:8080/api-docs
 
 #  **Spring Doc OpenAPI: Swagger**
 
-Swagger es una herramienta fundamental en Spring Boot que permite documentar y exponer automáticamente las APIs REST, proporcionando una interfaz interactiva para probar y visualizar los endpoints.
+Swagger es una herramienta fundamental en Spring Boot que permite documentar y exponer automáticamente las APIs REST. 
+Proporcionando una interfaz interactiva para probar y visualizar los endpoints.
 
 
 #  **Ventajas**
@@ -37,6 +40,7 @@ Swagger es una herramienta fundamental en Spring Boot que permite documentar y e
 #  **Configuraciones**
 
 Configuraciones de Swagger para el application.properties. 
+
 Aclaracion importante: puede funcionar sin ningun tipo de configuracion.
 
   ### Para desactivar SpringDoc (por defecto esta activado)
