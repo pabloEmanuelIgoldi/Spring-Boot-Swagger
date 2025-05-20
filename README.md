@@ -8,7 +8,7 @@
 ### Configuraciones 
 ### Anotaciones
 ### Documentacion oficial
-### Índice de proyectos Spring Boot
+### Índice de proyectos Spring
 
 #  **Definición del proyecto**
 
@@ -97,15 +97,14 @@ Aclaracion importante: puede funcionar sin ningun tipo de configuracion.
 
 https://springdoc.org/
 
-
-
-
-
-
-# Índice de proyectos Spring Boot
+---
+#  **Índice de proyectos Spring**
+##  **Proyectos Spring Boot**
 - [Response Uniforme](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Response-Wrapper)
 - [LogBack](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Logback)
 - [Profile](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Profile)
 - [Spring Doc](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Swagger)
 - [Validate](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Validate)
 - [Inter-Service Communication](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Inter-Service-Communication)
+##  **Proyectos Spring Data**
+- [Spring Data + Redis(Cache)](https://github.com/pabloEmanuelIgoldi/Spring-Data-Redis)
